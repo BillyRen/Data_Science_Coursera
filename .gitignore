@@ -48,3 +48,7 @@ nosetests.xml
 #R Files
 *.RData
 *.Rhistory
+*.rdb
+*.rdx
+Reproducible Research/cache/__packages
+Reproducible Research/PeerAssessment.R
